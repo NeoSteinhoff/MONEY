@@ -123,6 +123,12 @@ Primary supplier: name, location, MOQ [verified or estimated], unit cost at MOQ 
 **SECTION 9 · AD STRATEGY & CUSTOMER ACQUISITION**
 Primary channel and rationale. Creative strategy: format, hook thesis, content angle.
 
+**Creative search framework** (Lumen doctrine — creative is a search problem):
+- State number of conceptually distinct (uncorrelated) hooks at launch. Minimum 3. Each must represent a different human insight — status / ritual / proof / social validation / problem-solution. Color-swap variants of the same concept are NOT uncorrelated and do not count.
+- State unit cost per creative concept (production cost ÷ concepts).
+- State detection threshold: conversions needed to call a winner (minimum 50 per variant). At Month 1 CAC, state whether the budget can statistically detect a winner. If not, state "detection impossible this month — allocate broadly, do not kill variants early."
+- Identify the auction lever used: creative quality (relevance), conversion signal (Pixel event quality), or page behavior (load speed). Bid strategy is NOT an auction lever and must not be presented as one.
+
 **Promoter Activation Protocol** (treat as an affiliate army — the 60-person network is a structural off-auction acquisition asset):
 - Assign unique discount code per promoter (e.g. LAYAN-SARA01) AND unique UTM per promoter link
 - Assign different creative briefs to different promoters (angle diversity: unboxing / before-after / lifestyle / myth-bust) — same angle to all promoters = redundant reach of the same audience cluster
@@ -137,8 +143,18 @@ Media budget by month (M1–M6). Include a **MER target**: calculate breakeven M
 **SECTION 10 · BRAND IDENTITY**
 Brand name rationale. Positioning statement (specific, not "premium quality"). Colour palette (hex codes) with competitive differentiation justification — do not duplicate any palette used by NAIM (warm sand + near-black + amber + off-white) or SAHAR (Saharan Dawn). Typography. Tone of voice. Distinctiveness check.
 
+**Category entry points** (Lumen brand retrieval doctrine — minimum 3 required):
+- List the specific buying situations in which this brand should be retrieved (e.g. "gifting for Eid," "daily post-shower ritual," "status display in car/office," "friend recommendation after seeing post").
+- A brand linked to only one entry point has one retrieval path — structurally fragile. Each entry point is a separate creative angle and a separate promoter brief.
+
+**Distinctive assets inventory** (minimum 2 required):
+- Visual: [colour, logo, packaging shape]
+- Sensory: [scent, texture, finish — if applicable]
+- Verbal: [name, tagline, catchphrase]
+- Note: distinctive assets cannot be changed without resetting memory structure. Treat them as infrastructure, not decoration.
+
 **SECTION 11 · UAE CONVERSION STACK**
-Shopify theme. Essential apps (name + monthly cost). COD UX flow. WhatsApp integration. Arabic language support. UAE trust signals. Local payment methods.
+Shopify theme. Essential apps — select only on large-effect-size grounds: COD app (offer/logistics), WhatsApp retention, bilingual UX (trust/comprehension). Do NOT include apps that operate below detection floor (countdown timers, review notification popups, urgency banners — no controlled evidence at <100 orders/month). COD UX flow. WhatsApp integration. Arabic language support. UAE trust signals. Local payment methods.
 
 **SECTION 12 · LAUNCH SEQUENCING**
 
@@ -199,6 +215,19 @@ Count of each data tag. List of NOT CHECKED items requiring 48-hour resolution. 
 - MER (Media Efficiency Ratio) = Total Revenue ÷ Total Ad Spend (from Shopify/bank — not platform-reported ROAS). Platform ROAS overstates real return by 30–60%. Breakeven MER = 1 ÷ CM% before ads. Target MER = breakeven × 1.3–1.5×.
 - COD carrier cash remittance: effectively 5–10 business day DSO on every sale. At 100 orders/month and AED 300 retail, up to AED 10,000 is in transit at any given time.
 
+*Meta auction mechanics (Lumen doctrine):*
+- The Meta auction ranks expected revenue, not your bid. Clearing price is set by the runner-up's model. Bid strategy (CBO vs ABO, cost cap vs bid cap, manual vs auto) is not a meaningful lever — do not present it as one.
+- The only real levers: creative quality (relevance score), conversion signal (Pixel events — requires exit from learning phase), page behavior (load speed, scroll depth feed the auction model).
+- UAE CPMs are AED 55–80 because the UAE is a wealthy small-reach market. Global luxury brands are in this auction. You cannot outbid them — you win on creative relevance.
+- Creative is a search problem: the question is not "is this ad good?" but "how many uncorrelated concepts at what unit cost to find one winner — and can I detect a winner at this volume?" At <50 conversions/variant, you cannot statistically detect a winner. Do not call any creative "the winner" below this threshold.
+- Uncorrelated concepts = different human insight (status, ritual, proof, social validation) — NOT color-swap variants of the same concept. Same concept × different background = redundant search.
+- Measurement floor: at <100 orders/month, persuasion effect sizes (button color, urgency banners, .99 price endings, frequency caps) are below detection floor. Do not present these as CAC levers. Spend optimization time on large-effect-size levers: offer, product, landed cost, creative volume, distinctive assets, retention mechanics.
+
+*Brand retrieval (Lumen doctrine):*
+- A brand is purchased when retrieved in a buying situation. Retrieval is built by linking the brand to many category entry points through consistent distinctive assets.
+- Category entry points = specific buying situations (gifting, daily ritual, status display, seasonal event). A brand linked to one entry point has one retrieval path. Link to 3+ to build durable volume.
+- Distinctive assets = name, visual identity, sensory property (scent profile, texture, finish) that become retrieval cues over time. These cannot be changed without resetting memory structure. Treat them as infrastructure, not decoration.
+
 *Platform:*
 - TikTok Shop UAE is live for select sellers (2026) — check current eligibility.
 - Instagram Shopping UAE: functional but lower conversion than direct Shopify.
@@ -224,6 +253,11 @@ Count of each data tag. List of NOT CHECKED items requiring 48-hour resolution. 
 - A 90-day cash flow forecast missing from Section 3
 - A CCC calculation missing from Section 4
 - MER presented as platform ROAS rather than Total Revenue ÷ Total Ad Spend from Shopify/bank
+- Bid strategy, frequency cap, button color, or urgency banner presented as a material CAC lever (effect sizes below detection floor at <100 orders/month)
+- Platform ROAS cited as evidence that ads are working (only MER from Shopify/bank revenue counts)
+- Creative variants described as "uncorrelated" if they share the same human insight (color swaps are not creative diversity)
+- Section 9 creative plan with fewer than 3 conceptually distinct (uncorrelated) hooks
+- Section 10 brand identity without identifying minimum 3 category entry points and minimum 2 distinctive assets
 
 ---
 

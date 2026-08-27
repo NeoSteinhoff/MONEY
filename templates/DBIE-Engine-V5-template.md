@@ -298,11 +298,20 @@
 **Why this channel:**
 > [Data-backed reason this channel over-indexes for this product in UAE]
 
-**Creative strategy:**
-- Format: [UGC / branded / lifestyle / testimonial]
-- Hook thesis: [What stops the scroll in 2 seconds?]
-- Content angle: [Product + solution + social proof]
-- Creator profile: [UAE female/male, age, aesthetic]
+**Creative search framework** (creative is a search problem — state the search parameters):
+- Number of conceptually distinct (uncorrelated) hooks at launch: _____ (minimum 3)
+- Concept A: [different human insight — e.g. status positioning]
+- Concept B: [different human insight — e.g. daily ritual]
+- Concept C: [different human insight — e.g. proof/mechanism]
+- Unit cost per concept: AED _____
+- Detection threshold: _____ conversions needed per variant to call a winner (minimum 50)
+- Can Month 1 budget detect a winner? YES / NO — if NO: "allocate broadly, do not kill variants early"
+- Primary auction lever: [ ] Creative quality (relevance) [ ] Conversion signal (Pixel events) [ ] Page behavior (load speed/UX) — NOT bid strategy
+
+**Format:** [UGC / branded / lifestyle / testimonial]
+**Hook thesis:** [What stops the scroll in 2 seconds?]
+**Content angle:** [Product + solution + social proof]
+**Creator profile:** [UAE female/male, age, aesthetic]
 
 **Cold audience targeting:**
 - Interests:
@@ -378,17 +387,29 @@ Same angle to all promoters = redundant reach of the same audience cluster. Angl
 **Brand distinctiveness check:**
 > [Describe the brand using only colour, shape, and feeling. Could it be confused with any UAE competitor? If yes, what changes?]
 
+**Category entry points** (minimum 3 — each is a buying situation in which this brand must be retrieved):
+1. [e.g. "Eid gifting — buyer wants something memorable for a close contact"]
+2. [e.g. "Daily post-shower ritual — habitual use, repeat buyer"]
+3. [e.g. "Status display in home/car/office — visible to others, social signal"]
+
+**Distinctive assets inventory** (minimum 2 — treat as infrastructure, never change without resetting memory structure):
+- Visual: [colour, logo, packaging shape]
+- Sensory: [scent, texture, finish — if applicable]
+- Verbal: [name, tagline]
+
 ---
 
 ## SECTION 11 · UAE CONVERSION STACK
 
 **Shopify theme:** [Name, rationale]
 
-**Essential apps:**
+**Essential apps (large-effect-size only — do not include countdown timers, urgency popups, or review notification apps; these operate below detection floor at <100 orders/month):**
 
-| App | Function | Monthly Cost (AED) |
-|-----|----------|-------------------|
-| | | |
+| App | Function | Effect lever | Monthly Cost (AED) |
+|-----|----------|--------------|-------------------|
+| | COD | Offer/logistics | |
+| | WhatsApp | Retention | |
+| | Arabic/bilingual | Trust/comprehension | |
 
 **COD UX flow:**
 > [Step-by-step: how does a UAE buyer add to cart, select COD, confirm, and receive WhatsApp confirmation?]
